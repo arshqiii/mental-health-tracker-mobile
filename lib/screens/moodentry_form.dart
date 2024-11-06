@@ -25,6 +25,12 @@ class _MoodEntryFormPageState extends State<MoodEntryFormPage> {
         ),
         backgroundColor: Theme.of(context).colorScheme.primary,
         foregroundColor: Colors.white,
+        leading: IconButton(
+          icon: const Icon(Icons.arrow_back),
+          onPressed: () {
+            Navigator.pop(context);
+          },
+        ),
       ),
       //menambahkan drawer yang sudah dibuat di sini
       drawer: const LeftDrawer(),
