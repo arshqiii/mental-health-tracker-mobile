@@ -15,4 +15,4 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-[![Build status](https://build.appcenter.ms/v0.1/apps/cf74f2fc-2bf6-420d-bc82-f7f0833002e1/branches/main/badge)](https://appcenter.ms)
+[![Build status](https://build.appcenter.ms/v0.1/apps/cf74f2fc-2bf6-420d-bc82-f7f0833002e1/branches/main/badge)](https://appcenter.ms) 
